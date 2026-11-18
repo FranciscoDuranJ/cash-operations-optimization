@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Cash operations analytics illustration">
+<rect width="1200" height="430" fill="#0d1728"/><circle cx="1050" cy="80" r="170" fill="#203d5c" opacity=".28"/><circle cx="1120" cy="290" r="135" fill="#21475c" opacity=".19"/>
+<text x="65" y="95" fill="#61d8c7" font-family="Arial,sans-serif" font-size="21" font-weight="bold" letter-spacing="4">CONSULTING CASE STUDY</text>
+<text x="65" y="166" fill="white" font-family="Arial,sans-serif" font-size="51" font-weight="bold">Cash Operations</text><text x="65" y="223" fill="white" font-family="Arial,sans-serif" font-size="51" font-weight="bold">Optimization</text>
+<text x="67" y="278" fill="#afc1d8" font-family="Arial,sans-serif" font-size="22">Forecasting · Simulation · Financial Analytics</text>
+<rect x="66" y="322" rx="9" width="196" height="47" fill="#163d4a" stroke="#31998d"/><text x="90" y="353" fill="#82e8da" font-family="Arial" font-size="18">R / Time series</text>
+<rect x="275" y="322" rx="9" width="218" height="47" fill="#163d4a" stroke="#31998d"/><text x="297" y="353" fill="#82e8da" font-family="Arial" font-size="18">Cost simulation</text>
+<path d="M735 315 L795 280 L865 301 L927 202 L995 224 L1060 143 L1125 163" fill="none" stroke="#61d8c7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M735 354 L1125 354" stroke="#52718d" stroke-width="2"/><path d="M755 345 V310 M820 345 V285 M885 345 V308 M950 345 V200 M1015 345 V230 M1080 345 V148" stroke="#4d6686" stroke-width="17" opacity=".25"/>
+<text x="1106" y="395" fill="#819bb6" font-family="Arial" font-size="13" text-anchor="end">Illustrative artwork · No customer data</text></svg>

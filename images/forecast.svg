@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="Illustrative historical and projected cash collection line chart">
+<rect width="1000" height="450" rx="12" fill="#fbfcff"/><text x="58" y="57" font-family="Arial" font-size="27" font-weight="bold" fill="#1d304a">Branch collection trends · illustrative</text><text x="58" y="86" font-family="Arial" font-size="16" fill="#748299">Synthetic values; not actual client data</text>
+<g stroke="#e2e7ed" stroke-width="2"><path d="M80 130 H940 M80 195 H940 M80 260 H940 M80 325 H940"/></g><path d="M80 117 V352 H940" fill="none" stroke="#758ba2" stroke-width="2"/>
+<path d="M80 286 L151 256 L223 275 L294 209 L366 232 L438 193 L510 216 L581 169 L653 187" stroke="#1e628e" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M653 187 L724 171 L796 148 L868 166 L940 121" stroke="#20aa99" stroke-width="5" stroke-dasharray="12 8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M653 187 V352" stroke="#aebfce" stroke-width="2" stroke-dasharray="7 8"/><text x="660" y="338" font-family="Arial" font-size="15" fill="#62788e">Forecast starts</text>
+<g font-family="Arial" font-size="16" fill="#708095" text-anchor="middle"><text x="80" y="380">P1</text><text x="223" y="380">P3</text><text x="366" y="380">P5</text><text x="510" y="380">P7</text><text x="653" y="380">P9</text><text x="796" y="380">P11</text><text x="940" y="380">P13</text></g>
+<path d="M80 412 H125" stroke="#1e628e" stroke-width="5"/><text x="138" y="418" font-family="Arial" fill="#35495d" font-size="17">Illustrative history</text><path d="M348 412 H393" stroke="#20aa99" stroke-width="5" stroke-dasharray="12 8"/><text x="406" y="418" font-family="Arial" fill="#35495d" font-size="17">Illustrative forecast</text>
+</svg>

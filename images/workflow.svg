@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Six stage analytical workflow">
+<rect width="1200" height="280" fill="#f7f9fc"/><text x="52" y="50" font-family="Arial" font-size="27" fill="#182941" font-weight="bold">From transactional history to operating decisions</text>
+<g font-family="Arial" text-anchor="middle" font-size="19" fill="#153149">
+<rect x="28" y="97" width="172" height="104" rx="13" fill="#dceef4" stroke="#86bac9"/><text x="114" y="137">Historical</text><text x="114" y="164">collections</text>
+<rect x="225" y="97" width="172" height="104" rx="13" fill="#dceef4" stroke="#86bac9"/><text x="311" y="137">Data</text><text x="311" y="164">preparation</text>
+<rect x="422" y="97" width="172" height="104" rx="13" fill="#ccede7" stroke="#61ac9f"/><text x="508" y="137">Time-series</text><text x="508" y="164">forecasting</text>
+<rect x="619" y="97" width="172" height="104" rx="13" fill="#ccede7" stroke="#61ac9f"/><text x="705" y="137">Withdrawal</text><text x="705" y="164">simulation</text>
+<rect x="816" y="97" width="172" height="104" rx="13" fill="#dceef4" stroke="#86bac9"/><text x="902" y="137">Operating</text><text x="902" y="164">costs</text>
+<rect x="1013" y="97" width="159" height="104" rx="13" fill="#d9e4fa" stroke="#829fd1"/><text x="1092" y="137">Decision</text><text x="1092" y="164">support</text>
+</g><g stroke="#506783" stroke-width="3" fill="none"><path d="M200 149 H225 M397 149 H422 M594 149 H619 M791 149 H816 M988 149 H1013"/></g><g fill="#506783"><path d="M217 143 L225 149 L217 155 M414 143 L422 149 L414 155 M611 143 L619 149 L611 155 M808 143 L816 149 L808 155 M1005 143 L1013 149 L1005 155"/></g><text x="53" y="244" fill="#68798d" font-family="Arial" font-size="15">Conceptual flow · Not a production architecture diagram</text></svg>

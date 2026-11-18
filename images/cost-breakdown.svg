@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="Illustrative operational cost components chart">
+<rect width="1000" height="450" rx="12" fill="#fbfcff"/><text x="54" y="58" font-family="Arial" font-size="27" font-weight="bold" fill="#1d304a">Operating-cost components · illustrative</text><text x="54" y="88" font-family="Arial" font-size="16" fill="#748299">Synthetic relative shares; not actual costs, rates, or measured savings</text>
+<g font-family="Arial" font-size="22" fill="#243b53"><text x="62" y="166">Transport</text><text x="62" y="255">Cash / cheque processing</text><text x="62" y="344">Administration</text></g>
+<g><rect x="370" y="135" width="542" height="44" rx="7" fill="#e9eef5"/><rect x="370" y="135" width="372" height="44" rx="7" fill="#1e628e"/>
+<rect x="370" y="224" width="542" height="44" rx="7" fill="#e9eef5"/><rect x="370" y="224" width="263" height="44" rx="7" fill="#20aa99"/>
+<rect x="370" y="313" width="542" height="44" rx="7" fill="#e9eef5"/><rect x="370" y="313" width="135" height="44" rx="7" fill="#8b9ab3"/></g>
+<text x="54" y="419" font-family="Arial" fill="#748299" font-size="15">Bar lengths are illustrative only; proportions have no relationship to client operations.</text></svg>
